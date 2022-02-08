@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on a gambling website
 - 🌱 I’m currently learning Lua
-- 👯 I’m looking to collaborate on any interesting project
-- 🤔 I’m looking for help with new project ideas
+- 👯 I’m looking to collaborate in any interesting project
+- 🤔 I’m looking for help with project ideas
 - 📫 How to reach me: AZ#0170 (Discord)
 - ⚡ Fun fact: I am homophobic
 
