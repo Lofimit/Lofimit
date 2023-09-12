@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate in any interesting project
 - 🤔 I’m looking for help with project ideas
-- 📫 How to reach me: King#2252 (Discord)
+- 📫 How to reach me: @king.sz (Discord)
 - ⚡ Fun fact: I like to learn
 
 <details align="center">
